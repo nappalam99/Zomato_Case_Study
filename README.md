@@ -1,2 +1,2 @@
 # Zomato_Case_Study
-This might involve defining loyalty criteria such as frequency of orders, total amount spent, etc.
+Zomato SQL Case Study: Extracting insights from Zomato's database using SQL queries. Tasks include identifying non-ordering customers, calculating average dish prices, determining top restaurants by monthly orders, and analyzing monthly sales exceeding specified thresholds. Additionally, queries explore customer-specific details like order histories and favorite foods, enabling data-driven decisions for operational optimization.
